@@ -1,4 +1,4 @@
-### "Hello Word!" Meu nome é Vinícius Gonçalves 👋
+### "Hello World!" Meu nome é Vinícius Gonçalves 👋
 
 - 🔭 I’m currently working on Oracle DB, Maria DB and Java
 - 🌱 I’m currently learning Java, SQL and Python
